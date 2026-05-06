@@ -24,5 +24,5 @@ You need **Python** and **pip** installed on the target system.
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/archiveos-owner/dango-teach-pro](https://github.com/archiveos-owner/dango-teach-pro)
+git clone [https://github.com/archiveos-owner/dango-teach-pro](https://github.com/toprakkbaykuslar/Dango-Teach-PRO)
 cd dango-teach-pro
